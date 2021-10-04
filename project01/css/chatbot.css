@@ -1,0 +1,33 @@
+body{
+  background-image: url(../html/image/bgImage.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
+}
+#div_left{
+ width: 33%;
+ min-height: 100vh;
+ cursor: pointer;
+ float:left;
+ /* display: hidden; */
+}
+#div_mid{
+
+ width: 33%;
+ min-height: 100vh;
+ cursor: pointer;
+ float: left;
+ /* display: hidden; */
+}
+#div_right{
+ width: 33%;
+ min-height: 100vh;
+ cursor: pointer;
+ float: left;
+ /* dis: hidden; */
+}
+p{
+  opacity: 0;
+}
